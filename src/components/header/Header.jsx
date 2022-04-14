@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <img 
         className="headerImg" 
-        src="https://www.wallpaperflare.com/static/979/532/21/video-games-landscape-dauntless-videogame-trees-wallpaper.jpg" 
+        src="https://wallpaperaccess.com/full/42271.jpg" 
         alt="" 
       />
     </div>
